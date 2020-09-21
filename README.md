@@ -16,3 +16,6 @@ Line 97 set to "topics" and followed with "img" , and "h2" tags to identify
  Class tags being used more efficently.
  Simplified the "h1" tag for the name of the website and removed "span" tags
  Easier to read code.
+Added alt tags to all images
+The website has a proper title
+
